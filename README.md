@@ -12,6 +12,6 @@ In this video, you'll learn:
 - Next.js 13 Serverless Route Handlers (Next API, Full Stack Apps)
 - Next.js 13 Metadata and Search Engine Optimization (SEO)
 - Three ways to fetch data in Next.js:
-   - Server Side Rendering (SSR),
+   - Server Side Rendering (SSR)
    - Static Site Generation (SSG)
    - Incremental Static Generation (ISR)
